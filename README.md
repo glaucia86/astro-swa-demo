@@ -53,7 +53,7 @@ Bom, agora na mesma tela do cmd, basta iniciar o server para o projeto ser execu
 
 Caso vocês desejam visualizar o site ao vivo, podem acessar **[AQUI](https://yellow-grass-008f2c710.azurestaticapps.net/)**
 
-[![astro-swa-demo.gif](https://s6.gifyu.com/images/astro-swa-demo.gif)](https://gifyu.com/image/OJkv)
+![astro-website-portfolio](./images/astro-swa-demo.gif)
 
 ## 📌 Links & Recursos Importantes
 
