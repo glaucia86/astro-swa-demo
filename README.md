@@ -4,7 +4,7 @@
 
 Repositório responsável pela demo com o novo framework **[Astro Build](https://astro.build/)** com deployment usando o **[SWA CLI](https://github.com/Azure/static-web-apps-cli)**.
 
-O artigo relacionado a essa demo, vocês podem encontrar **[AQUI - Em Breve!]()**!
+O artigo relacionado a essa demo, vocês podem encontrar **[AQUI](https://dev.to/glaucia86/criando-aplicacoes-com-astro-build-azure-static-web-cli-39nb)**!
 
 ## 🚀 Recursos Utilizados
 
